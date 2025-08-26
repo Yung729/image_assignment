@@ -1,0 +1,12 @@
+2025-08-26 20:54:38,873 - INFO - Loaded data for 4 students
+2025-08-26 20:54:38,916 - INFO - Student Verification System backend initialized
+2025-08-26 20:54:39,110 - INFO - RobustTTS worker thread started.
+2025-08-26 20:54:57,520 - INFO - QR ID 'S004' found in database for student: Test
+2025-08-26 20:54:57,602 - INFO - Loaded 30 face images for student S004
+2025-08-26 20:55:17,786 - INFO - Verification logged: Test - SUCCESS (Score: 0.800)
+2025-08-26 20:55:18,159 - INFO - Loaded student photo: card_photos\S004.jpg
+2025-08-26 20:55:18,281 - INFO - Voice announcement: Verification successful. Welcome, Test. Program: RSW. Batch 2022. Academic performance: First Class. Access granted. Have a great day!
+2025-08-26 20:55:18,380 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Yung\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-26 20:55:18,384 - INFO - Using writeable comtypes cache directory: 'c:\Users\Yung\anaconda3\Lib\site-packages\comtypes\gen'
+2025-08-26 20:55:40,347 - INFO - Cleaning up TTS system...
+2025-08-26 20:55:40,350 - INFO - TTS system cleaned up.
