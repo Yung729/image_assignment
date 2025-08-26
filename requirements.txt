@@ -1,0 +1,10 @@
+opencv-contrib-python
+numpy
+Pillow
+qrcode
+matplotlib
+scikit-learn
+dlib
+imutils
+customtkinter
+pyttsx3
