@@ -1,68 +1,13 @@
 {
     "S001": {
         "id": "S001",
-        "name": "Kah Yung",
+        "name": "Leong Kah Yung",
         "program": "RSW",
         "email": "leongky-wm22@student.tarc.edu.my",
         "phone": "01124590628",
-        "cgpa": "3.88",
+        "cgpa": "3.89",
         "academic_performance": "First Class",
         "batch": "22",
-        "created_date": "2025-08-24T09:41:41.880368"
-    },
-    "S002": {
-        "id": "S002",
-        "name": "Yung",
-        "program": "RSW",
-        "email": "leongky-wm22@student.tarc.edu.my",
-        "phone": "",
-        "cgpa": "4.0",
-        "academic_performance": "First Class",
-        "batch": "22",
-        "created_date": "2025-08-25T10:29:14.774917"
-    },
-    "S003": {
-        "id": "S003",
-        "name": "jjj",
-        "program": "jjjj",
-        "email": "ll-wm22@student.tarc.edu.my",
-        "phone": "",
-        "cgpa": "4.0",
-        "academic_performance": "First Class",
-        "batch": "22",
-        "created_date": "2025-08-25T11:12:23.558373"
-    },
-    "S004": {
-        "id": "S004",
-        "name": "Test",
-        "program": "RSW",
-        "email": "leongky-wm22@student.tarc.edu.my",
-        "phone": "",
-        "cgpa": "4.0",
-        "academic_performance": "First Class",
-        "batch": "22",
-        "created_date": "2025-08-26T12:33:52.092909"
-    },
-    "S005": {
-        "id": "S005",
-        "name": "Jose",
-        "program": "CS",
-        "email": "la-ww22@student.tarc.edu.my",
-        "phone": "",
-        "cgpa": "2",
-        "academic_performance": "Pass",
-        "batch": "22",
-        "created_date": "2025-08-27T22:56:46.816253"
-    },
-    "S006": {
-        "id": "S006",
-        "name": "chan",
-        "program": "sd",
-        "email": "chan-we33@student.tarc.edu.my",
-        "phone": "",
-        "cgpa": "3",
-        "academic_performance": "Second Class Lower",
-        "batch": "33",
-        "created_date": "2025-08-27T23:06:40.382378"
+        "created_date": "2025-08-28T09:13:59.589928"
     }
 }
