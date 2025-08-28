@@ -13,3 +13,60 @@
 2025-08-28 09:26:47,941 - INFO - Verification logged: Leong Kah Yung - SUCCESS (Score: 0.844)
 2025-08-28 09:26:48,284 - INFO - Loaded student photo: card_photos\S001.jpg
 2025-08-28 09:26:48,321 - INFO - Voice announcement: Verification successful. Welcome, Leong Kah Yung. Program: RSW. Batch 2022. Academic performance: First Class. Access granted. Have a great day!
+2025-08-28 09:27:09,890 - INFO - Cleaning up TTS system...
+2025-08-28 09:27:09,890 - INFO - TTS system cleaned up.
+2025-08-28 10:24:46,741 - INFO - Loaded data for 1 students
+2025-08-28 10:24:46,810 - INFO - Student Verification System backend initialized
+2025-08-28 10:24:47,044 - INFO - RobustTTS worker thread started.
+2025-08-28 10:25:41,210 - INFO - QR ID 'S001' found in database for student: Leong Kah Yung
+2025-08-28 10:25:41,309 - INFO - Loaded 30 face images for student S001
+2025-08-28 10:25:42,966 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Yung\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-28 10:25:42,972 - INFO - Using writeable comtypes cache directory: 'c:\Users\Yung\anaconda3\Lib\site-packages\comtypes\gen'
+2025-08-28 10:25:48,624 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.000)
+2025-08-28 10:25:48,660 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.000)
+2025-08-28 10:26:02,386 - INFO - QR ID 'S001' found in database for student: Leong Kah Yung
+2025-08-28 10:26:02,399 - INFO - Loaded 30 face images for student S001
+2025-08-28 10:26:06,504 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.000)
+2025-08-28 10:26:06,534 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.000)
+2025-08-28 10:26:09,014 - INFO - Cleaning up TTS system...
+2025-08-28 10:26:09,168 - INFO - TTS system cleaned up.
+2025-08-28 10:29:26,703 - INFO - Loaded data for 1 students
+2025-08-28 10:29:26,752 - INFO - Student Verification System backend initialized
+2025-08-28 10:29:26,996 - INFO - RobustTTS worker thread started.
+2025-08-28 10:29:38,932 - INFO - QR ID 'S001' found in database for student: Leong Kah Yung
+2025-08-28 10:29:38,967 - INFO - Loaded 30 face images for student S001
+2025-08-28 10:30:15,409 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.533)
+2025-08-28 10:30:15,423 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.533)
+2025-08-28 10:30:40,604 - INFO - QR ID 'S001' found in database for student: Leong Kah Yung
+2025-08-28 10:30:40,650 - INFO - Loaded 30 face images for student S001
+2025-08-28 10:30:49,294 - INFO - Verification logged: Leong Kah Yung - SUCCESS (Score: 1.000)
+2025-08-28 10:30:49,729 - INFO - Loaded student photo: card_photos\S001.jpg
+2025-08-28 10:30:50,100 - INFO - Voice announcement: Verification successful. Welcome, Leong Kah Yung. Program: RSW. Batch 2022. Academic performance: First Class. Access granted. Have a great day!
+2025-08-28 10:31:36,877 - INFO - QR ID 'S001' found in database for student: Leong Kah Yung
+2025-08-28 10:31:36,892 - INFO - Loaded 30 face images for student S001
+2025-08-28 10:31:49,200 - INFO - Verification logged: Leong Kah Yung - SUCCESS (Score: 0.978)
+2025-08-28 10:31:49,532 - INFO - Loaded student photo: card_photos\S001.jpg
+2025-08-28 10:31:49,583 - INFO - Voice announcement: Verification successful. Welcome, Leong Kah Yung. Program: RSW. Batch 2022. Academic performance: First Class. Access granted. Have a great day!
+2025-08-28 10:32:06,707 - INFO - Cleaning up TTS system...
+2025-08-28 10:32:07,163 - INFO - TTS system cleaned up.
+2025-08-28 10:41:37,554 - INFO - Loaded data for 1 students
+2025-08-28 10:41:37,603 - INFO - Student Verification System backend initialized
+2025-08-28 10:41:37,749 - INFO - RobustTTS worker thread started.
+2025-08-28 10:42:39,046 - INFO - Verification logged: None - FAILED (Score: 0.000)
+2025-08-28 10:42:48,635 - INFO - QR ID 'S001' found in database for student: Leong Kah Yung
+2025-08-28 10:42:48,663 - INFO - Loaded 30 face images for student S001
+2025-08-28 10:43:24,548 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.000)
+2025-08-28 10:43:24,566 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.000)
+2025-08-28 10:43:36,469 - INFO - QR ID 'S001' found in database for student: Leong Kah Yung
+2025-08-28 10:43:36,482 - INFO - Loaded 30 face images for student S001
+2025-08-28 10:43:43,232 - INFO - Verification logged: Leong Kah Yung - SUCCESS (Score: 1.000)
+2025-08-28 10:43:43,540 - INFO - Loaded student photo: card_photos\S001.jpg
+2025-08-28 10:43:43,567 - INFO - Voice announcement: Verification successful. Welcome, Leong Kah Yung. Program: RSW. Batch 2022. Academic performance: First Class. Access granted. Have a great day!
+2025-08-28 10:44:01,875 - INFO - Cleaning up TTS system...
+2025-08-28 10:44:01,877 - INFO - TTS system cleaned up.
+2025-08-28 10:44:10,256 - INFO - Loaded data for 1 students
+2025-08-28 10:44:26,887 - INFO - Model prepared for S001: 20 samples
+2025-08-28 10:44:57,007 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\Yung\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-28 10:44:57,009 - INFO - Using writeable comtypes cache directory: 'c:\Users\Yung\anaconda3\Lib\site-packages\comtypes\gen'
+2025-08-28 10:45:02,547 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.788)
+2025-08-28 10:45:02,563 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.788)
