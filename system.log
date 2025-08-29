@@ -70,3 +70,21 @@
 2025-08-28 10:44:57,009 - INFO - Using writeable comtypes cache directory: 'c:\Users\Yung\anaconda3\Lib\site-packages\comtypes\gen'
 2025-08-28 10:45:02,547 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.788)
 2025-08-28 10:45:02,563 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.788)
+2025-08-29 20:33:55,590 - INFO - Loaded data for 1 students
+2025-08-29 20:37:13,888 - INFO - Model prepared for S001: 20 samples
+2025-08-29 20:37:48,878 - INFO - Loaded data for 1 students
+2025-08-29 20:38:12,067 - INFO - Model prepared for S001: 20 samples
+2025-08-29 20:38:42,205 - INFO - Imported existing <module 'comtypes.gen' from 'c:\\Users\\LYL\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-08-29 20:38:42,208 - INFO - Using writeable comtypes cache directory: 'c:\Users\LYL\anaconda3\Lib\site-packages\comtypes\gen'
+2025-08-29 20:38:44,952 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.806)
+2025-08-29 20:38:44,963 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.806)
+2025-08-29 20:39:51,101 - INFO - Loaded data for 2 students
+2025-08-29 20:40:12,780 - INFO - Model prepared for S002: 20 samples
+2025-08-29 20:40:22,283 - INFO - Verification logged: Jose - SUCCESS (Score: 0.848)
+2025-08-29 20:41:35,341 - INFO - Loaded data for 2 students
+2025-08-29 20:41:54,714 - INFO - Model prepared for S002: 20 samples
+2025-08-29 20:42:01,362 - INFO - Verification logged: Jose - SUCCESS (Score: 0.898)
+2025-08-29 20:42:08,467 - INFO - Loaded data for 2 students
+2025-08-29 20:42:27,545 - INFO - Model prepared for S001: 20 samples
+2025-08-29 20:42:59,460 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.821)
+2025-08-29 20:42:59,471 - INFO - Verification logged: Leong Kah Yung - FAILED (Score: 0.821)
