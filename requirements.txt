@@ -8,3 +8,7 @@ dlib
 imutils
 customtkinter
 pyttsx3
+pandas
+seaborn
+scipy
+pd

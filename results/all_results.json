@@ -1,0 +1,101 @@
+[
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 1.0,
+    "runtime": 3.4924,
+    "timestamp": "2025-08-30T00:15:02.939019",
+    "test_run": 1,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member2",
+    "student_id": "S001",
+    "score": 0.854,
+    "runtime": 10.6278,
+    "timestamp": "2025-08-30T00:19:50.678868",
+    "test_run": 1,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member2",
+    "student_id": "S002",
+    "score": 0.9146,
+    "runtime": 6.3008,
+    "timestamp": "2025-08-30T00:20:49.824900",
+    "test_run": 2,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member3",
+    "student_id": "S002",
+    "score": 0.0,
+    "runtime": 33.2458,
+    "timestamp": "2025-08-30T00:22:43.832956",
+    "test_run": 1,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member3",
+    "student_id": null,
+    "score": 0.0,
+    "runtime": 19.4349,
+    "timestamp": "2025-08-30T00:24:00.868300",
+    "test_run": 2,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member3",
+    "student_id": "S002",
+    "score": 0.0,
+    "runtime": 33.521,
+    "timestamp": "2025-08-30T00:24:53.649541",
+    "test_run": 3,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 1.0,
+    "runtime": 4.9332,
+    "timestamp": "2025-08-30T00:32:52.922455",
+    "test_run": 2,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 1.0,
+    "runtime": 4.1367,
+    "timestamp": "2025-08-30T00:38:24.822684",
+    "test_run": 3,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 1.0,
+    "runtime": 17.35,
+    "timestamp": "2025-08-30T00:38:55.748562",
+    "test_run": 4,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 1.0,
+    "runtime": 3.8307,
+    "timestamp": "2025-08-30T00:39:34.988230",
+    "test_run": 5,
+    "algorithm_details": {}
+  },
+  {
+    "member": "Member3",
+    "student_id": null,
+    "score": 0.0,
+    "runtime": 19.4769,
+    "timestamp": "2025-08-30T00:41:09.952617",
+    "test_run": 4,
+    "algorithm_details": {}
+  }
+]

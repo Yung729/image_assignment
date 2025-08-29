@@ -9,5 +9,16 @@
         "academic_performance": "First Class",
         "batch": "22",
         "created_date": "2025-08-28T09:13:59.589928"
+    },
+    "S002": {
+        "id": "S002",
+        "name": "Kah Yung",
+        "program": "RSW",
+        "email": "leongky-wm22@student.tarc.edu.my",
+        "phone": "",
+        "cgpa": "3.89",
+        "academic_performance": "First Class",
+        "batch": "22",
+        "created_date": "2025-08-30T00:13:45.036361"
     }
 }
