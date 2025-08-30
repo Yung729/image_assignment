@@ -1,55 +1,19 @@
 [
   {
-    "member": "Member1_Dlib_LBPH",
+    "member": "Member3",
     "student_id": "S002",
-    "score": 0.5884,
-    "runtime": 2.3357,
-    "timestamp": "2025-08-30T09:00:26.613206",
+    "score": 57.6492,
+    "runtime": 31.6642,
+    "timestamp": "2025-08-30T12:35:09.571956",
     "test_run": 1,
     "algorithm_details": {}
   },
   {
-    "member": "Member2",
+    "member": "Member3",
     "student_id": "S002",
-    "score": 0.7797,
-    "runtime": 34.6053,
-    "timestamp": "2025-08-30T09:01:45.344854",
-    "test_run": 1,
-    "algorithm_details": {}
-  },
-  {
-    "member": "Member1",
-    "student_id": "S002",
-    "score": 0.9556,
-    "runtime": 3.5008,
-    "timestamp": "2025-08-30T09:02:07.540609",
-    "test_run": 1,
-    "algorithm_details": {}
-  },
-  {
-    "member": "Member1_Dlib_LBPH",
-    "student_id": "S002",
-    "score": 0.6287,
-    "runtime": 6.3166,
-    "timestamp": "2025-08-30T09:13:46.925202",
-    "test_run": 2,
-    "algorithm_details": {}
-  },
-  {
-    "member": "Member1",
-    "student_id": "S002",
-    "score": 0.9778,
-    "runtime": 4.3255,
-    "timestamp": "2025-08-30T09:14:30.779738",
-    "test_run": 2,
-    "algorithm_details": {}
-  },
-  {
-    "member": "Member2",
-    "student_id": "S002",
-    "score": 0.8423,
-    "runtime": 32.9848,
-    "timestamp": "2025-08-30T09:15:34.936601",
+    "score": 79.2033,
+    "runtime": 32.675,
+    "timestamp": "2025-08-30T12:38:46.388410",
     "test_run": 2,
     "algorithm_details": {}
   }
