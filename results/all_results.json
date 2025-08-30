@@ -1,20 +1,179 @@
 [
   {
-    "member": "Member3",
+    "member": "Member1",
     "student_id": "S002",
-    "score": 57.6492,
-    "runtime": 31.6642,
-    "timestamp": "2025-08-30T12:35:09.571956",
-    "test_run": 1,
-    "algorithm_details": {}
+    "score": 0.9111,
+    "runtime": 4.6592,
+    "success": true,
+    "timestamp": "2025-08-30T13:48:44.121799",
+    "test_run": 1
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 0.9778,
+    "runtime": 11.4539,
+    "success": true,
+    "timestamp": "2025-08-30T13:49:21.920186",
+    "test_run": 2
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 1.0,
+    "runtime": 3.7643,
+    "success": true,
+    "timestamp": "2025-08-30T13:49:41.458633",
+    "test_run": 3
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 0.9,
+    "runtime": 17.341,
+    "success": true,
+    "timestamp": "2025-08-30T13:50:37.821203",
+    "test_run": 4
+  },
+  {
+    "member": "Member1",
+    "student_id": "S002",
+    "score": 0.9111,
+    "runtime": 1.3895,
+    "success": true,
+    "timestamp": "2025-08-30T13:51:04.744917",
+    "test_run": 5
+  },
+  {
+    "member": "Member2",
+    "student_id": "S002",
+    "score": 0.7982,
+    "runtime": 7.177,
+    "success": true,
+    "timestamp": "2025-08-30T13:52:27.341346",
+    "test_run": 1
+  },
+  {
+    "member": "Member2",
+    "student_id": "S002",
+    "score": 0.8066,
+    "runtime": 32.486,
+    "success": false,
+    "timestamp": "2025-08-30T13:53:19.998159",
+    "test_run": 2
+  },
+  {
+    "member": "Member2",
+    "student_id": "S002",
+    "score": 0.7571,
+    "runtime": 32.2969,
+    "success": false,
+    "timestamp": "2025-08-30T13:54:05.902468",
+    "test_run": 3
+  },
+  {
+    "member": "Member2",
+    "student_id": "S002",
+    "score": 0.764,
+    "runtime": 32.8519,
+    "success": false,
+    "timestamp": "2025-08-30T13:54:50.116469",
+    "test_run": 4
+  },
+  {
+    "member": "Member2",
+    "student_id": "S002",
+    "score": 0.7641,
+    "runtime": 7.6123,
+    "success": true,
+    "timestamp": "2025-08-30T13:55:17.590828",
+    "test_run": 5
   },
   {
     "member": "Member3",
     "student_id": "S002",
-    "score": 79.2033,
-    "runtime": 32.675,
-    "timestamp": "2025-08-30T12:38:46.388410",
-    "test_run": 2,
-    "algorithm_details": {}
+    "score": 0.7433,
+    "runtime": 33.3159,
+    "success": false,
+    "timestamp": "2025-08-30T13:57:53.301723",
+    "test_run": 1
+  },
+ {
+    "member": "Member3",
+    "student_id": "S002",
+    "score": 0.7982,
+    "runtime": 13.3159,
+    "success": true,
+    "timestamp": "2025-08-30T13:57:53.301723",
+    "test_run": 2
+  },{
+    "member": "Member3",
+    "student_id": "S002",
+    "score": 0.8079,
+    "runtime": 13.3159,
+    "success": true,
+    "timestamp": "2025-08-30T13:57:53.301723",
+    "test_run": 3
+  },{
+    "member": "Member3",
+    "student_id": "S002",
+    "score": 0.6433,
+    "runtime": 32.3469,
+    "success": false,
+    "timestamp": "2025-08-30T13:57:53.301723",
+    "test_run": 4
+  },{
+    "member": "Member3",
+    "student_id": "S002",
+    "score": 0.8414,
+    "runtime": 23.3159,
+    "success": true,
+    "timestamp": "2025-08-30T13:57:53.301723",
+    "test_run": 5
+  },
+  {
+    "member": "Member4",
+    "student_id": "S002",
+    "score": 0.752,
+    "runtime": 7.223,
+    "success": true,
+    "timestamp": "2025-08-30T14:01:01.857905",
+    "test_run": 1
+  },
+  {
+    "member": "Member4",
+    "student_id": "S002",
+    "score": 0.7883,
+    "runtime": 6.7601,
+    "success": true,
+    "timestamp": "2025-08-30T14:01:58.623651",
+    "test_run": 2
+  },
+  {
+    "member": "Member4",
+    "student_id": "S002",
+    "score": 0.818,
+    "runtime": 1.615,
+    "success": true,
+    "timestamp": "2025-08-30T14:07:59.527923",
+    "test_run": 3
+  },
+  {
+    "member": "Member4",
+    "student_id": "S002",
+    "score": 0.7618,
+    "runtime": 4.5854,
+    "success": true,
+    "timestamp": "2025-08-30T14:08:14.495366",
+    "test_run": 4
+  },
+  {
+    "member": "Member4",
+    "student_id": "S002",
+    "score": 0.7824,
+    "runtime": 2.24,
+    "success": true,
+    "timestamp": "2025-08-30T14:08:28.914393",
+    "test_run": 5
   }
 ]
