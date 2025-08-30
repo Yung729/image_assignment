@@ -318,5 +318,115 @@
     "score": 0.888888888888889,
     "verification_time": 0.0,
     "session_id": "d37bad3a"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-30T08:54:16.639651",
+    "score": 0.9111111111111111,
+    "verification_time": 0.0,
+    "session_id": "79811947"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-30T08:55:06.647451",
+    "score": 0.5730229546435298,
+    "verification_time": 2.961603879928589,
+    "session_id": "c5a0e4eb"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-30T09:00:26.062786",
+    "score": 0.5883793167398819,
+    "verification_time": 2.3357038497924805,
+    "session_id": "39833307"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": false,
+    "timestamp": "2025-08-30T09:01:45.277497",
+    "score": 0.7796703467850163,
+    "verification_time": 34.58443593978882,
+    "session_id": "f71b97a3"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": false,
+    "timestamp": "2025-08-30T09:01:45.298339",
+    "score": 0.7796703467850163,
+    "verification_time": 34.60527801513672,
+    "session_id": "382aceb6"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-30T09:02:07.173297",
+    "score": 0.9555555555555556,
+    "verification_time": 0.0,
+    "session_id": "77158601"
+  },
+  {
+    "student_id": null,
+    "name": null,
+    "program": null,
+    "success": false,
+    "timestamp": "2025-08-30T09:11:11.723787",
+    "score": 0.0,
+    "verification_time": 18.48073148727417,
+    "session_id": "bf21e268"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-30T09:13:46.541369",
+    "score": 0.6286521797258698,
+    "verification_time": 6.316648960113525,
+    "session_id": "e4246138"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-30T09:14:30.411087",
+    "score": 0.9777777777777779,
+    "verification_time": 0.0,
+    "session_id": "bfd2c3bf"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": false,
+    "timestamp": "2025-08-30T09:15:34.903337",
+    "score": 0.8423129636451125,
+    "verification_time": 32.96565842628479,
+    "session_id": "bb1b9cec"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": false,
+    "timestamp": "2025-08-30T09:15:34.922462",
+    "score": 0.8423129636451125,
+    "verification_time": 32.98478293418884,
+    "session_id": "63ba1c4f"
   }
 ]
