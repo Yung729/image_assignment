@@ -448,5 +448,25 @@
     "score": 0.7823943950698362,
     "verification_time": 2.240023136138916,
     "session_id": "cee2a00b"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-31T17:32:59.845595",
+    "score": 1.0,
+    "verification_time": 0.0,
+    "session_id": "ef889627"
+  },
+  {
+    "student_id": "S002",
+    "name": "Kah Yung",
+    "program": "RSW",
+    "success": true,
+    "timestamp": "2025-08-31T17:35:46.697099",
+    "score": 0.97054698457223,
+    "verification_time": 0.0,
+    "session_id": "bc0a2587"
   }
 ]
